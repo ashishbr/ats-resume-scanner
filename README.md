@@ -1,4 +1,4 @@
-# ATS Resume Scanner (local)
+# ATS Resume Scanner (local version)
 
 Reads your resume the way an Applicant Tracking System does, saves the extracted text to a `.txt` file, checks whether the text and keywords came through intact, and scores the resume with or without a job description.
 
