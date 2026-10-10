@@ -1,0 +1,31 @@
+Software Engineer, Payments Platform
+
+About the role
+We are a fintech company building real-time payment processing systems that move billions of dollars a year. You will design and build backend services for our payments platform, work with product and risk teams, and own features from design to production.
+
+What you'll do
+- Design, build and operate scalable microservices in Python and Java
+- Build REST APIs and event-driven pipelines with Kafka
+- Deploy services on AWS using Docker and Kubernetes
+- Improve observability, reliability and latency of payment flows
+- Partner with fraud and risk teams on fraud detection signals
+
+Requirements
+- Bachelor's degree in Computer Science or a related field
+- 2+ years of experience in backend software development
+- Strong proficiency in Python or Java
+- Experience with SQL and PostgreSQL
+- Experience with REST APIs and microservices
+- Hands-on experience with AWS, Docker and CI/CD
+- Solid understanding of data structures, algorithms and distributed systems
+- Strong communication and collaboration skills
+
+Preferred qualifications
+- Experience with Kafka or other message queues
+- Experience with Kubernetes and Terraform
+- Familiarity with payment processing, PCI compliance or fraud detection
+- Experience with Redis caching
+- Master's degree in Computer Science or Information Technology
+
+We are an equal opportunity employer and value diversity. All qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, disability or veteran status.
+Salary range: $110,000 - $140,000 plus benefits.

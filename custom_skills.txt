@@ -1,0 +1,10 @@
+# Add your own keywords here. One per line:
+#   Canonical Name | alias one, alias two, alias three
+# Aliases match case-insensitively on word boundaries.
+# Prefix an alias with CS: to match it case-sensitively (e.g. CS:Go).
+# Restart the app after editing.
+#
+# Examples (remove the # to enable):
+# Stripe API | stripe, stripe api
+# ISO 20022 | iso 20022, iso20022
+# Plaid | plaid

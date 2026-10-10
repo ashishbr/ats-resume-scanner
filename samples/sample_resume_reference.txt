@@ -1,0 +1,32 @@
+Jordan Lee
+Dallas, TX | (469) 555-0142 | jordan.lee@email.com | linkedin.com/in/jordanlee-dev | github.com/jordanlee-dev
+
+SUMMARY
+Backend software engineer with 2 years of experience building Python and Java microservices for payments and data platforms. Comfortable owning services from design to production on AWS.
+
+EXPERIENCE
+Software Engineer Intern, Northwind Payments | Dallas, TX | May 2025 - Aug 2025
+• Built REST APIs in FastAPI for a payment reconciliation service handling 40,000 transactions per day
+• Reduced p95 API latency by 35% by adding Redis caching and optimizing PostgreSQL queries
+• Containerized 6 services with Docker and deployed them to AWS ECS through a GitHub Actions CI/CD pipeline
+• Collaborated with the fraud team to stream risk signals through Kafka, cutting alert delay from 5 minutes to 20 seconds
+Software Developer, Brightline Analytics | Bengaluru, India | Jul 2023 - Jul 2024
+• Developed Java Spring Boot microservices for a data ingestion platform serving 120 enterprise clients
+• Automated ETL jobs with Airflow and SQL, saving the analytics team 10 hours per week
+• Wrote unit tests with JUnit and PyTest, raising coverage from 52% to 85%
+
+PROJECTS
+Real-Time Fraud Detection API | Python, FastAPI, Kafka, scikit-learn
+• Designed an anomaly detection service scoring 1,000 events per second with an isolation forest model
+• Deployed on Kubernetes with Terraform-managed AWS infrastructure and Grafana dashboards
+
+EDUCATION
+M.S. Information Technology and Management, University of Texas at Dallas | Expected May 2027
+B.E. Information Science, Visvesvaraya Technological University | Jun 2023
+
+SKILLS
+Languages: Python, Java, SQL, JavaScript
+Frameworks: FastAPI, Django, Spring Boot, React
+Cloud & DevOps: AWS (EC2, S3, Lambda, ECS), Docker, Kubernetes, Terraform, Git, CI/CD
+Data: PostgreSQL, Redis, MongoDB, Kafka, Airflow, Pandas
+Concepts: Distributed Systems, Data Structures, Algorithms, System Design
